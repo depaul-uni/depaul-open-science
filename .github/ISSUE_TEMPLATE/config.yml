@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Open a Discussion
+    url: https://github.com/depaul-uni/depaul-open-science/discussions
+    about: For open-ended questions, ideas, or community conversation that isn't actionable yet.
+  - name: 📧 Email the SLC Facilitator
+    url: mailto:valizade@depaul.edu
+    about: For sensitive or private matters that shouldn't be public.

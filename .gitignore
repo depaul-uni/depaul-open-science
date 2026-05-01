@@ -1,0 +1,41 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+_book/
+_build/
+docs/_site/
+
+# Quarto / R / Python
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.quarto/
+
+# Environment
+.env
+.env.local
+node_modules/
+
+# Local notes (not for distribution)
+notes/
+scratch/
+private/
+test.txt
+test2.txt

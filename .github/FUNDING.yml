@@ -1,0 +1,4 @@
+# GitHub funding-link configuration. We don't currently solicit funding,
+# but having this file present keeps the "Sponsor" tooling configured if
+# the project ever joins a fiscal-host or institutional fund.
+# github: [depaul-uni]

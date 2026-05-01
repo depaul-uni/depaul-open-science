@@ -1,0 +1,27 @@
+title: "Open Science in Practice"
+description: "An Implementation Guide for Researchers, DePaul University Open Science SLC, 2025-26"
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - chapters
+  - members
+  - resources
+  - workshops
+  - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
+exclude:
+  - .github
+  - test.txt
+  - test2.txt
+  - vendor
+  - Gemfile
+  - Gemfile.lock

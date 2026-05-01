@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this guide, please cite it using the metadata below."
+title: "Open Science in Practice: An Implementation Guide for Researchers"
+abstract: >
+  A community-built, discipline-spanning handbook for adopting open-science
+  practices in research and lab management, produced by the DePaul University
+  2025-26 Scholarship Learning Community on Open Science in Practice.
+type: software
+authors:
+  - family-names: "Alizadeh"
+    given-names: "Vahid"
+    affiliation: "DePaul University, School of Computing"
+    email: "valizade@depaul.edu"
+  - family-names: "Grice"
+    given-names: "Kyle"
+    affiliation: "DePaul University, Department of Chemistry and Biochemistry"
+  - family-names: "Quinn"
+    given-names: "Kimberly"
+    affiliation: "DePaul University, Department of Psychology"
+  - family-names: "Tran"
+    given-names: "Susan"
+    affiliation: "DePaul University, Department of Psychology"
+  - family-names: "Pitcher"
+    given-names: "Corin"
+    affiliation: "DePaul University, School of Computing"
+  - family-names: "Hoot"
+    given-names: "Brad"
+    affiliation: "DePaul University, Department of Modern Languages"
+  - family-names: "Freemon"
+    given-names: "Kayla"
+    affiliation: "DePaul University, Department of Criminology"
+  - family-names: "Hallisy"
+    given-names: "Kelly"
+    affiliation: "DePaul University, Library"
+keywords:
+  - open science
+  - reproducibility
+  - version control
+  - pre-registration
+  - open access
+  - research methods
+license: CC-BY-4.0
+repository-code: "https://github.com/depaul-uni/depaul-open-science"
+url: "https://depaul-uni.github.io/depaul-open-science"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19898914"
+    description: "Concept DOI (always resolves to the latest version)"
+  - type: doi
+    value: "10.5281/zenodo.19898915"
+    description: "DOI for version 0.2.0"
+version: "0.2.0"
+date-released: "2026-04-30"
