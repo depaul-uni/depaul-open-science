@@ -13,7 +13,7 @@
 
 ## Research focus
 
-*A short paragraph describing your research area, methods, and any active projects you'd like to highlight. 2-4 sentences is plenty.*
+*I am a psychological scientist whose current research focuses on design equity in Chicago.*
 
 ## Why I joined this SLC
 
