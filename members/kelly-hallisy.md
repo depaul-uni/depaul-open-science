@@ -19,6 +19,8 @@
 
 *What drew you to spend a year on open science? A specific problem you wanted to solve? A practice you'd been hearing about but never had time to try? A community you wanted to build?*
 
+I joined because I am interested in supporting open access and thinking about how to improve DePaul's institutional repository to support open work and materials produced by the DePaul community. 
+
 ## Open-science practice I've found most relevant
 
 *Of the practices we've covered (foundations, pre-registration, open data, reproducible analysis, transparent reporting, open access, version control, open materials), which one has had the biggest impact on your own work, and why?*
