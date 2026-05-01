@@ -4,16 +4,13 @@
 **Department:** Department of Chemistry and Biochemistry
 **Email:** kgrice1@depaul.edu
 **Role in the SLC:** Member
-**ORCID:** *to be added*
-**GitHub:** *to be added during the workshop*
-
+**ORCID:** 0000-0002-0542-6495
+**GitHub:** https://github.com/griceka/Grice-GitHub
 ---
-
-> *This is your member profile. Edit this file during the May 1, 2026 workshop to add your own content. The headings below are suggestions, feel free to add, remove, or reorganize sections to fit your story.*
 
 ## Research focus
 
-*A short paragraph describing your research area, methods, and any active projects you'd like to highlight. 2-4 sentences is plenty.*
+See https://sites.google.com/site/drkyleagrice/home
 
 ## Why I joined this SLC
 
