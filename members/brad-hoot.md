@@ -4,8 +4,8 @@
 **Department:** Department of Modern Languages
 **Email:** bhoot@depaul.edu
 **Role in the SLC:** Member
-**ORCID:** *to be added*
-**GitHub:** *to be added during the workshop*
+**ORCID:** [0000-0002-3126-5752](https://orcid.org/0000-0002-3126-5752)
+**GitHub:** [bradhoot](https://github.com/bradhoot/)
 
 ---
 
