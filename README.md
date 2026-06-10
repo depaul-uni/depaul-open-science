@@ -52,7 +52,6 @@ A concrete, opinionated, link-rich playbook covering the full open-science lifec
 | 6 | [Open Access Publishing & Preprints](chapters/06-open-access.md) | OA models, licensing, preprints, and dissemination | Kyle Grice |
 | 7 | [Version Control with Git & GitHub](chapters/07-version-control-github.md) | Reproducible workflows and lab management with GitHub | Vahid Alizadeh |
 | 8 | [Open Materials & Collaborative Protocols Sharing](chapters/08-open-materials.md) | Platforms, legal/ethical constraints, and discipline-specific archives for sharing materials | Bradley Hoot |
-| 9 | [Integration & Community Building](chapters/09-integration.md) | Sustaining open-science practice past the SLC | *coming June 2026* |
 
 ---
 

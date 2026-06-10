@@ -386,6 +386,6 @@ Terms specific to materials. The version-control vocabulary from Chapter 7 and t
 
 ---
 
-*Previous: [Version Control with Git & GitHub](07-version-control-github.md)* - *Next: [Integration & Community Building](09-integration.md)*
+*Previous: [Version Control with Git & GitHub](07-version-control-github.md)* - *Next: end of guide*
 
 *Want to contribute? See [CONTRIBUTING.md](../CONTRIBUTING.md).*

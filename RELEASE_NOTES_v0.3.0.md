@@ -54,8 +54,8 @@ DOI: (to be assigned by Zenodo upon release)
 
 ## Looking ahead
 
-- **Meeting 9 (June 2026)** is the SLC's final session. Chapter 9 (Integration & Community Building) will be drafted from that meeting, and the v1.0 release of the Implementation Guide will be tagged after Meeting 9. The v1.0 release will be the formal, complete reference for the year's work and will be cited in the ORS Lunch & Learn workshop materials.
+- **Meeting 9 (June 2026)** is the SLC's final session, focused on synthesizing the year, planning the ORS Lunch & Learn, and tagging the v1.0 release of the Implementation Guide. The v1.0 release will be the formal, complete reference for the year's work and will be cited in the ORS Lunch & Learn workshop materials.
 
 ## Acknowledgments
 
-Thanks to Brad Hoot for stepping up to present despite the topic being adjacent to his own daily research, to the cohort for the discussion during the live session, and to DePaul's Office of Research Services for the SLC program that made this work possible.
+Thanks to Brad Hoot for stepping up to present despite the topic being adjacent to his own daily research, to the cohort for the discussion during the live session, and to DePaul's Office of Research
