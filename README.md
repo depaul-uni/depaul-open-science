@@ -51,7 +51,7 @@ A concrete, opinionated, link-rich playbook covering the full open-science lifec
 | 5 | [Transparent Reporting Standards](chapters/05-transparent-reporting.md) | Reporting guidelines (CONSORT, PRISMA, ARRIVE) across disciplines | Kimberly Quinn & Vahid Alizadeh |
 | 6 | [Open Access Publishing & Preprints](chapters/06-open-access.md) | OA models, licensing, preprints, and dissemination | Kyle Grice |
 | 7 | [Version Control with Git & GitHub](chapters/07-version-control-github.md) | Reproducible workflows and lab management with GitHub | Vahid Alizadeh |
-| 8 | [Open Materials & Collaborative Protocols](chapters/08-open-materials.md) | Sharing protocols, stimuli, and code | *coming May 2026* |
+| 8 | [Open Materials & Collaborative Protocols Sharing](chapters/08-open-materials.md) | Platforms, legal/ethical constraints, and discipline-specific archives for sharing materials | Bradley Hoot |
 | 9 | [Integration & Community Building](chapters/09-integration.md) | Sustaining open-science practice past the SLC | *coming June 2026* |
 
 ---
@@ -132,6 +132,6 @@ We additionally acknowledge the generations of researchers whose hard-won lesson
 
 *Built with care, in the open, on GitHub.*
 
-🌱 **Version 0.2.0** · *chapters populated April 2026*
+🌱 **Version 0.3.0** · *chapter 8 (Open Materials) added June 2026*
 
 </div>

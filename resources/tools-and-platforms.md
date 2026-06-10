@@ -128,6 +128,97 @@ An annotated catalog of every tool mentioned across the chapters. Free unless ot
 | [Conventional Commits](https://www.conventionalcommits.org/) | A popular convention for commit messages | Useful with automation | Ch.7 |
 | [Overleaf](https://www.overleaf.com) | Cloud-based LaTeX editor | Free academic accounts | Ch.5 |
 
+## Materials Sharing Platforms
+
+Curated as part of Chapter 8 (Open Materials and Collaborative Protocols Sharing).
+
+### General-purpose materials repositories (with DOIs)
+
+| Tool | What it is | Notes | Source |
+|------|-----------|-------|--------|
+| [OSF Materials components](https://osf.io) | Materials live as components in a project | Each component gets its own DOI; strongest for psych and social science | Ch.8 |
+| [Zenodo](https://zenodo.org) | General research repository at CERN | Best for code-as-instrument, GitHub release archiving | Ch.8 |
+| [Figshare](https://figshare.com) | Commercial repository, free tier | Posters, supplementary materials; accepts files >5GB | Ch.8 |
+| [Dataverse](https://dataverse.org) | Open-source data repository network | Strong structured metadata for social-science materials | Ch.8 |
+
+### Protocol-specific platforms
+
+| Tool | What it is | Notes | Source |
+|------|-----------|-------|--------|
+| [protocols.io](https://www.protocols.io) | Version-controlled protocol sharing | Owned by Springer Nature; free for academic use; de facto standard for biological/biomedical | Ch.8 |
+| [Bio-protocol](https://bio-protocol.org) | Peer-reviewed protocol journal | Free to publish and read | Ch.8 |
+| [JoVE](https://www.jove.com) | Video-protocol journal | Subscription model; ~$2,400 publication fee | Ch.8 |
+| [STAR Protocols](https://star-protocols.cell.com) | Open-access protocol journal | Cell Press; born from STAR Methods checklist | Ch.8 |
+| [Nature Protocols](https://www.nature.com/nprot/) | Subscription protocol journal | Peer-reviewed step-by-step methods | Ch.8 |
+
+### Stimuli and instruments (psych, education, applied linguistics)
+
+| Tool | What it is | Notes | Source |
+|------|-----------|-------|--------|
+| [IRIS Database](https://www.iris-database.org) | Second-language research instruments | University of York; highly curated with attribution metadata | Ch.8 |
+| [PsychOpen](https://www.psychopen.eu) | European OA psych infrastructure | Has materials section | Ch.8 |
+| [Open Test Archive (Leibniz)](https://www.testarchiv.eu) | Validated psychological tests | Scales, questionnaires | Ch.8 |
+
+### Linguistics archives
+
+| Tool | What it is | Notes | Source |
+|------|-----------|-------|--------|
+| [LDC (Linguistic Data Consortium)](https://www.ldc.upenn.edu) | Speech, text, lexical resources | University of Pennsylvania; membership-based | Ch.8 |
+| [TalkBank / CHILDES](https://talkbank.org) | Spoken-language corpora | Carnegie Mellon; free with registration; CHAT transcription standard | Ch.8 |
+| [ELAR (Endangered Languages Archive)](https://www.elararchive.org) | Endangered language documentation | Humboldt University of Berlin; tiered access | Ch.8 |
+| [The Language Archive (TLA)](https://archive.mpi.nl) | Multimedia language and gesture | Max Planck, Nijmegen; mostly open | Ch.8 |
+| [CLARIN](https://www.clarin.eu) | European federation of language resources | Federated SSO across national nodes | Ch.8 |
+| [AILLA](https://ailla.utexas.org) | Indigenous languages of Latin America | UT Austin; tiered access including community-restricted | Ch.8 |
+| [PARADISEC](https://www.paradisec.org.au) | Pacific cultures and languages | Australian consortium | Ch.8 |
+| [DELAMAN](https://www.delaman.org) | Endangered-language archive network | Umbrella coordination layer | Ch.8 |
+
+### Reagents, biological materials, cell lines
+
+| Tool | What it is | Notes | Source |
+|------|-----------|-------|--------|
+| [Addgene](https://www.addgene.org) | Non-profit plasmid repository | Distributes physical plasmids globally | Ch.8 |
+| [ATCC](https://www.atcc.org) | Cell line and microorganism repository | Commercial | Ch.8 |
+| [Materials Project](https://materialsproject.org) | Computed materials data (DFT) | Properties database | Ch.8 |
+| [Cambridge Structural Database](https://www.ccdc.cam.ac.uk) | Crystallographic structures | CCDC | Ch.8 |
+
+### Open Educational Resources (OER)
+
+| Tool | What it is | Notes | Source |
+|------|-----------|-------|--------|
+| [OER Commons](https://oercommons.org) | OER catalog | Free | Ch.8 |
+| [MERLOT](https://www.merlot.org) | Multimedia educational resources | Free | Ch.8 |
+| [OASIS](https://oasis.geneseo.edu) | OER aggregator | Cross-repository search | Ch.8 |
+| Digital Commons @ DePaul | DePaul institutional repository | For faculty-produced teaching materials | Ch.8 |
+
+### Hardware and apparatus
+
+| Tool | What it is | Notes | Source |
+|------|-----------|-------|--------|
+| [HardwareX](https://www.hardware-x.com) | OA journal for open-source scientific hardware | Each accepted design gets a DOI | Ch.8 |
+| [Thingiverse / Printables](https://www.thingiverse.com) | 3D-printable hardware designs | Community quality varies | Ch.8 |
+| [Open Source Hardware Association](https://www.oshwa.org) | Certification mark and registry | OSHWA | Ch.8 |
+
+### Collaborative-protocol consortia
+
+| Consortium | Field | Source |
+|-----------|-------|--------|
+| [Many Labs](https://github.com/many-labs) | Social and cognitive psychology multi-site replications | Ch.8 |
+| [ManyBabies](https://manybabies.org) | Infant cognition multi-site research | Ch.8 |
+| [Psychological Science Accelerator](https://psysciacc.org) | 700+ labs in 70+ countries, pre-registered shared protocols | Ch.8 |
+| [Open Reaction Database](https://open-reaction-database.org) | Chemistry reactions with consistent metadata | Ch.8 |
+| [ManyPrimates](https://manyprimates.github.io) | Comparative cognition across primate species | Ch.8 |
+| [ICPSR](https://www.icpsr.umich.edu) | Restricted-use social-science data archive | Ch.8 |
+
+### Restricted-use and IRB-aware archives
+
+| Tool | What it is | Notes | Source |
+|------|-----------|-------|--------|
+| [ICPSR restricted-use](https://www.icpsr.umich.edu) | Social-science data with data-use agreements | Mediated access for sensitive data | Ch.8 |
+| [Vivli](https://vivli.org) | Clinical trial data sharing | Mediated access | Ch.8 |
+| [Mendeley Data](https://data.mendeley.com) | Elsevier-run data repository | Free tier | Ch.8 |
+| [Dryad](https://datadryad.org) | Curated data repository | Note: does not accept transcripts, recordings, or images of human subjects | Ch.8 |
+| [RSpace](https://www.researchspace.com) | Research orchestrator (ELN + samples) | Paid: ~$5k/year for 15 users | Ch.8 |
+
 ## Cheat Sheets and Quick References
 
 - [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - one-page PDF *(Ch.7)*
