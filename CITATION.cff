@@ -45,10 +45,16 @@ repository-code: "https://github.com/depaul-uni/depaul-open-science"
 url: "https://depaul-uni.github.io/depaul-open-science"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.19898914"
-    description: "Concept DOI (always resolves to the latest version)"
+    value: "10.5281/zenodo.20633888"
+    description: "Concept DOI (always resolves to the latest version, currently v0.3.0)"
   - type: doi
     value: "10.5281/zenodo.19898915"
     description: "DOI for version 0.2.0"
+  - type: doi
+    value: "10.5281/zenodo.19941263"
+    description: "DOI for version 0.2.1"
+  - type: doi
+    value: "10.5281/zenodo.20633888"
+    description: "DOI for version 0.3.0 (current)"
 version: "0.3.0"
 date-released: "2026-06-05"
