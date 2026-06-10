@@ -22,6 +22,18 @@ If you only read five things across the whole guide, read these.
 
 Sorted alphabetically. Drawn from the chapters' primary literature.
 
+
+### Chapter 8 (Open Materials) foundational reads
+
+- **Berez-Kroeker, A. L., et al. (2018).** [Reproducible research in linguistics: A position statement on data citation and attribution.](https://www.degruyter.com/document/doi/10.1515/ling-2017-0032/html) *Linguistics*, 56(1), 1-18. The Tromso Recommendations on materials citation. *(Ch.8)*
+- **Bird, S., & Simons, G. (2003).** [Seven dimensions of portability for language documentation and description.](https://www.linguisticsociety.org/sites/default/files/02-Bird.pdf) *Language*, 79(3), 557-582. Anticipated FAIR by more than a decade. *(Ch.8)*
+- **Carroll, S. R., et al. (2020).** [The CARE Principles for Indigenous Data Governance.](https://datascience.codata.org/articles/10.5334/dsj-2020-043) *Data Science Journal*, 19(1), 43. *(Ch.8)*
+- **Klein, R. A., et al. (2014).** [Investigating variation in replicability: A "Many Labs" replication project.](https://econtent.hogrefe.com/doi/10.1027/1864-9335/a000178) *Social Psychology*, 45(3), 142-152. The original Many Labs paper. *(Ch.8)*
+- **The ManyBabies Consortium. (2020).** [Quantifying sources of variability in infancy research using the infant-directed-speech preference.](https://journals.sagepub.com/doi/10.1177/2515245919900809) *AMPPS*, 3(1), 24-52. *(Ch.8)*
+- **Begley, C. G., & Ellis, L. M. (2012).** [Raise standards for preclinical cancer research.](https://www.nature.com/articles/483531a) *Nature*, 483(7391), 531-533. *(Ch.8)*
+- **Plant, A. L., et al. (2014).** [Improved reproducibility by assuring confidence in measurements in biomedical research.](https://www.nature.com/articles/nmeth.2884) *Nature Methods*, 11(9), 895-898. *(Ch.8)*
+
+### Other peer-reviewed papers
 - [Reproducibility Crisis Meta-Analysis](https://www.nature.com/articles/d41586-024-04253-w) *(Ch.1 Foundations)*
 - [Research Transparency Evaluation Tools](https://www.wiley.com/network/researchers/latest-content/checklists-to-improve-research-transparency) *(Ch.1 Foundations)*
 - [A Quick Introduction to Version Control with Git and GitHub.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668) *(Ch.7 Version Control)*

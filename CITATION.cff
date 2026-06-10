@@ -38,6 +38,7 @@ keywords:
   - version control
   - pre-registration
   - open access
+  - open materials
   - research methods
 license: CC-BY-4.0
 repository-code: "https://github.com/depaul-uni/depaul-open-science"
@@ -49,5 +50,5 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.19898915"
     description: "DOI for version 0.2.0"
-version: "0.2.0"
-date-released: "2026-04-30"
+version: "0.3.0"
+date-released: "2026-06-05"
