@@ -5,7 +5,7 @@
 
 A community-built, discipline-spanning handbook for adopting open-science practices in research and lab management. Produced by the **DePaul University 2025-26 Scholarship Learning Community on Open Science in Practice**.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20633888.svg)](https://doi.org/10.5281/zenodo.20633888)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19898914.svg)](https://doi.org/10.5281/zenodo.19898914)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://commonmark.org)
 [![GitHub Pages](https://img.shields.io/badge/Live%20Site-GitHub%20Pages-blue?logo=github)](https://depaul-uni.github.io/depaul-open-science)
