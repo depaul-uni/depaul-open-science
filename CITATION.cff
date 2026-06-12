@@ -26,9 +26,6 @@ authors:
   - family-names: "Hoot"
     given-names: "Brad"
     affiliation: "DePaul University, Department of Modern Languages"
-  - family-names: "Freemon"
-    given-names: "Kayla"
-    affiliation: "DePaul University, Department of Criminology"
   - family-names: "Hallisy"
     given-names: "Kelly"
     affiliation: "DePaul University, Library"
@@ -46,7 +43,7 @@ url: "https://depaul-uni.github.io/depaul-open-science"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.20633888"
-    description: "Concept DOI (always resolves to the latest version, currently v0.3.0)"
+    description: "Concept DOI (always resolves to the latest version)"
   - type: doi
     value: "10.5281/zenodo.19898915"
     description: "DOI for version 0.2.0"
@@ -55,6 +52,6 @@ identifiers:
     description: "DOI for version 0.2.1"
   - type: doi
     value: "10.5281/zenodo.20633888"
-    description: "DOI for version 0.3.0 (current)"
-version: "0.3.0"
-date-released: "2026-06-05"
+    description: "DOI for version 0.3.0"
+version: "0.3.1"
+date-released: "2026-06-11"

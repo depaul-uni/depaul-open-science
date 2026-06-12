@@ -127,4 +127,10 @@ We additionally acknowledge the generations of researchers whose hard-won lesson
 
 ---
 
-<div align="cen
+<div align="center">
+
+*Built with care, in the open, on GitHub.*
+
+🌱 **Version 0.3.1** · *chapter 8 (Open Materials) added June 2026; author list updated*
+
+</div>
